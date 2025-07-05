@@ -1,0 +1,9 @@
+pandas
+pytesseract
+Pillow
+requests
+opencv-python
+numpy
+fuzzywuzzy
+python-Levenshtein
+textblob
