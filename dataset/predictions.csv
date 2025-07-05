@@ -1,0 +1,101 @@
+image_link,feature,predicted_value,target_value,correct
+https://m.media-amazon.com/images/I/61I9XdN6OFL.jpg,item_weight,500.0 gram,500.0 gram,True
+https://m.media-amazon.com/images/I/71gSRbyXmoL.jpg,item_volume,,1.0 cup,False
+https://m.media-amazon.com/images/I/61BZ4zrjZXL.jpg,item_weight,0.709 gram,0.709 gram,True
+https://m.media-amazon.com/images/I/612mrlqiI4L.jpg,item_weight,,0.709 gram,False
+https://m.media-amazon.com/images/I/617Tl40LOXL.jpg,item_weight,,1400 milligram,False
+https://m.media-amazon.com/images/I/61QsBSE7jgL.jpg,item_weight,1400 milligram,1400 milligram,True
+https://m.media-amazon.com/images/I/81xsq6vf2qL.jpg,item_weight,1400 milligram,1400 milligram,True
+https://m.media-amazon.com/images/I/71DiLRHeZdL.jpg,item_weight,,1400 milligram,False
+https://m.media-amazon.com/images/I/91Cma3RzseL.jpg,item_weight,,1400 milligram,False
+https://m.media-amazon.com/images/I/71jBLhmTNlL.jpg,item_weight,,1400 milligram,False
+https://m.media-amazon.com/images/I/81N73b5khVL.jpg,item_weight,30.0 kilogram,30.0 kilogram,True
+https://m.media-amazon.com/images/I/61oMj2iXOuL.jpg,item_weight,1015.0 gram,10 kilogram to 15 kilogram,False
+https://m.media-amazon.com/images/I/91LPf6OjV9L.jpg,item_weight,,3.53 ounce,False
+https://m.media-amazon.com/images/I/81fOxWWWKYL.jpg,item_weight,,3.53 ounce,False
+https://m.media-amazon.com/images/I/81dzao1Ob4L.jpg,item_weight,100.0 gram,53 ounce,False
+https://m.media-amazon.com/images/I/91-iahVGEDL.jpg,item_weight,,100 gram,False
+https://m.media-amazon.com/images/I/81S2+GnYpTL.jpg,item_weight,200 gram,200 gram,True
+https://m.media-amazon.com/images/I/81e2YtCOKvL.jpg,item_weight,200.0 gram,1 kilogram,False
+https://m.media-amazon.com/images/I/81RNsNEM1EL.jpg,item_weight,170.0 milligram,200 gram,False
+https://m.media-amazon.com/images/I/91prZeizZnL.jpg,item_weight,200 gram,200 gram,True
+https://m.media-amazon.com/images/I/31EvJszFVfL.jpg,item_weight,,200 gram,False
+https://m.media-amazon.com/images/I/61wzlucTREL.jpg,item_volume,,4.0 gallon,False
+https://m.media-amazon.com/images/I/61sQ+qAKr4L.jpg,item_weight,,2.7 gram,False
+https://m.media-amazon.com/images/I/81x77l2T5NL.jpg,item_weight,28.0 gram,112 gram,False
+https://m.media-amazon.com/images/I/71nywfWZUwL.jpg,item_weight,,4.1 kilogram,False
+https://m.media-amazon.com/images/I/71nywfWZUwL.jpg,voltage,48.0 volt,48.0 volt,True
+https://m.media-amazon.com/images/I/51WsuKKAVrL.jpg,item_weight,,158.0 gram,False
+https://m.media-amazon.com/images/I/61XGDKap+JL.jpg,item_weight,,158.0 gram,False
+https://m.media-amazon.com/images/I/715vVcWJxGL.jpg,item_weight,5000 milligram,5000 milligram,True
+https://m.media-amazon.com/images/I/613v+2W4UwL.jpg,item_weight,18.55 gram,18.55 gram,True
+https://m.media-amazon.com/images/I/71+fn9TWQmL.jpg,item_weight,18.55 gram,18.55 gram,True
+https://m.media-amazon.com/images/I/71aKgRRQ2wL.jpg,item_weight,18.55 gram,18.55 gram,True
+https://m.media-amazon.com/images/I/71rKXZJrh4L.jpg,item_weight,18.55 gram,18.55 gram,True
+https://m.media-amazon.com/images/I/71D824lbRvL.jpg,item_weight,18.55 gram,18.55 gram,True
+https://m.media-amazon.com/images/I/71004c9tzfL.jpg,item_weight,,50.0 gram,False
+https://m.media-amazon.com/images/I/51bQPPtMqYL.jpg,item_weight,,26.0 gram,False
+https://m.media-amazon.com/images/I/61o2ntPNNgL.jpg,wattage,800.0 watt,800.0 watt,True
+https://m.media-amazon.com/images/I/61o2ntPNNgL.jpg,voltage,36.0 volt,36.0 volt,True
+https://m.media-amazon.com/images/I/71IUuTJ8QwL.jpg,item_weight,,330.0 pound,False
+https://m.media-amazon.com/images/I/915JHkwtcrL.jpg,item_weight,,31.0 ounce,False
+https://m.media-amazon.com/images/I/71cjrYndwIL.jpg,item_weight,,0.35 ounce,False
+https://m.media-amazon.com/images/I/81hnk2WXO3L.jpg,item_weight,35.0 gram,35.0 gram,True
+https://m.media-amazon.com/images/I/61HXgujoxpL.jpg,wattage,150.0 watt,150.0 watt,True
+https://m.media-amazon.com/images/I/613G8GOyLSL.jpg,wattage,150.0 watt,150.0 watt,True
+https://m.media-amazon.com/images/I/71YyZ2iPyZL.jpg,wattage,30.0 watt,30.0 watt,True
+https://m.media-amazon.com/images/I/81K3JwUCnQL.jpg,wattage,30.0 watt,30.0 watt,True
+https://m.media-amazon.com/images/I/41wvffSxB4L.jpg,item_weight,15.5 gram,15.5 gram,True
+https://m.media-amazon.com/images/I/91cErO-KbLL.jpg,item_weight,200.0 gram,200.0 gram,True
+https://m.media-amazon.com/images/I/817vo3DcCNL.jpg,wattage,250.0 watt,250.0 watt,True
+https://m.media-amazon.com/images/I/61AHQ35poHL.jpg,item_volume,2.0 litre,10.0 ounce,False
+https://m.media-amazon.com/images/I/61WFh8RCQYL.jpg,item_weight,,0.8 kilogram,False
+https://m.media-amazon.com/images/I/711SATIDrmL.jpg,item_weight,169.0 gram,169.0 gram,True
+https://m.media-amazon.com/images/I/61x6RSjwQIL.jpg,item_weight,,10.0 gram,False
+https://m.media-amazon.com/images/I/613BeFNwHcL.jpg,item_weight,,7.0 gram,False
+https://m.media-amazon.com/images/I/61hWZdkq6WL.jpg,item_weight,750.0 gram,750.0 gram,True
+https://m.media-amazon.com/images/I/71E7CU55dcL.jpg,item_weight,,160.0 gram,False
+https://m.media-amazon.com/images/I/61c+hSNnnZL.jpg,item_weight,,270.0 gram,False
+https://m.media-amazon.com/images/I/915w0BdW-gL.jpg,item_weight,,500 gram,False
+https://m.media-amazon.com/images/I/61sx0ezNNLL.jpg,item_weight,200.0 gram,1 kilogram,False
+https://m.media-amazon.com/images/I/71ldprwbKrL.jpg,item_weight,2.0 gram,10 kilogram,False
+https://m.media-amazon.com/images/I/71E9iF-bmKL.jpg,item_weight,,1 kilogram,False
+https://m.media-amazon.com/images/I/71sWRp1SNwL.jpg,item_weight,50.0 gram,2.2 pound,False
+https://m.media-amazon.com/images/I/61Fwq4GeTmL.jpg,wattage,60.0 watt,60.0 watt,True
+https://m.media-amazon.com/images/I/61-oj+N+BxL.jpg,item_volume,,30.0 millilitre,False
+https://m.media-amazon.com/images/I/71e6kJLE+LL.jpg,item_volume,,30.0 millilitre,False
+https://m.media-amazon.com/images/I/71SuzaRS7gL.jpg,item_volume,,30.0 millilitre,False
+https://m.media-amazon.com/images/I/71nsfFCXF0L.jpg,item_volume,30.0 millilitre,30.0 millilitre,True
+https://m.media-amazon.com/images/I/71hgN7yu9OL.jpg,item_volume,,30.0 millilitre,False
+https://m.media-amazon.com/images/I/61SmT8pkLtL.jpg,item_weight,2.0 gram,2 ounce,False
+https://m.media-amazon.com/images/I/71ZtDgGX+iL.jpg,item_weight,8.1 gram,8.1 gram,True
+https://m.media-amazon.com/images/I/413FQB0ZMLL.jpg,item_weight,,2 kilogram,False
+https://m.media-amazon.com/images/I/41EjbFu-+yL.jpg,item_weight,,10 kilogram,False
+https://m.media-amazon.com/images/I/71dWDwMhWmS.jpg,item_weight,,500.0 kilogram,False
+https://m.media-amazon.com/images/I/61d6Kj80QSL.jpg,item_weight,,200.0 gram,False
+https://m.media-amazon.com/images/I/71bvOuz9w1L.jpg,item_weight,,200.0 gram,False
+https://m.media-amazon.com/images/I/71l0M0tMGjL.jpg,item_weight,35.0 gram,200.0 gram,False
+https://m.media-amazon.com/images/I/71Lpqdrpi4L.jpg,item_weight,,200.0 gram,False
+https://m.media-amazon.com/images/I/71jLIbCcwOL.jpg,item_weight,100.0 gram,100.0 gram,True
+https://m.media-amazon.com/images/I/718EdwGgyVL.jpg,item_weight,200.0 gram,200.0 gram,True
+https://m.media-amazon.com/images/I/713twQgCHSL.jpg,item_weight,,5.0 kilogram,False
+https://m.media-amazon.com/images/I/61I0O1qJbhS.jpg,item_weight,,60.0 pound,False
+https://m.media-amazon.com/images/I/61eOO5IW4NL.jpg,item_volume,,3.0 cubic foot,False
+https://m.media-amazon.com/images/I/716AQpAJjZL.jpg,item_weight,,227 gram,False
+https://m.media-amazon.com/images/I/71FVeRd2jqL.jpg,item_weight,,100 gram,False
+https://m.media-amazon.com/images/I/81njuNSPdjL.jpg,item_weight,190.0 gram,190.0 gram,True
+https://m.media-amazon.com/images/I/51xfRlxWIXL.jpg,item_weight,,100.0 gram,False
+https://m.media-amazon.com/images/I/71duwM3SjpL.jpg,item_weight,,600 milligram,False
+https://m.media-amazon.com/images/I/612xIhPMHqL.jpg,item_weight,,3.2 gram,False
+https://m.media-amazon.com/images/I/51b9JEHOriL.jpg,item_weight,6.5 gram,6.5 gram,True
+https://m.media-amazon.com/images/I/81lgxfKqUUL.jpg,item_weight,160.0 gram,160.0 gram,True
+https://m.media-amazon.com/images/I/814sAvV89SL.jpg,item_weight,42.0 gram,42.0 gram,True
+https://m.media-amazon.com/images/I/61cMeogK8gL.jpg,item_weight,,26.0 gram,False
+https://m.media-amazon.com/images/I/811VfR10yxL.jpg,wattage,0.55 watt,0.55 watt,True
+https://m.media-amazon.com/images/I/71WLYfmMqQL.jpg,item_weight,,50.0 milligram,False
+https://m.media-amazon.com/images/I/61Dq3LRei9L.jpg,item_weight,,10.0 kilogram,False
+https://m.media-amazon.com/images/I/71XK5d3Oh9L.jpg,wattage,,49.0 watt,False
+https://m.media-amazon.com/images/I/61kyBEJYDeL.jpg,item_weight,,500 milligram,False
+https://m.media-amazon.com/images/I/71uQmsTESvL.jpg,item_weight,,500 milligram,False
+https://m.media-amazon.com/images/I/71jG8BOi4WL.jpg,item_weight,,16.0 gram,False
+https://m.media-amazon.com/images/I/61390hosjFL.jpg,item_weight,,8 kilogram,False

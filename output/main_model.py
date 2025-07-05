@@ -35,6 +35,10 @@ def correct_spelling(text):
 
 # Fuzzy matching function to compare extracted text with the target
 def fuzzy_match(extracted, target_value):
+    extracted = extracted.strip()
+    if not extracted:
+        return extracted  # or return target_value, based on use case
+
     # Calculate fuzzy matching score
     match, score = process.extractOne(extracted, [target_value])
     return match if score > 80 else extracted  # Adjust threshold as needed
@@ -160,6 +164,7 @@ def process_images(csv_file, output_csv):
     total_predictions = 0
     results = []
 
+    idx = 0
     for _, row in df.iterrows():
         image_url = row['image_link']
         feature = row['entity_name']
@@ -193,7 +198,8 @@ def process_images(csv_file, output_csv):
                 'correct': correct
             })
 
-            print(f"formatted text: {final_prediction}")
+            print(f"{idx}] formatted text: {final_prediction}")
+            idx+=1
 
             # Printing every 100th image processed
             if total_predictions % 100 == 0:
@@ -207,8 +213,8 @@ def process_images(csv_file, output_csv):
 
 
 # Example usage
-# csv_file = r"C:\Users\admin\Desktop\Amazon_ML\66e31d6ee96cd_student_resource_3\student_resource 3\dataset\test.csv"
-# output_csv = r"C:\Users\admin\Desktop\Amazon_ML\66e31d6ee96cd_student_resource_3\student_resource 3\dataset\output_predictions.csv"
-# process_images(csv_file, output_csv)
 
-process_images('../example/data/suraj.csv', 'tanmay_out.csv')
+csv_file = "../dataset/Trial.csv"
+output_csv = "../dataset/predictions.csv"
+process_images(csv_file, output_csv)
+

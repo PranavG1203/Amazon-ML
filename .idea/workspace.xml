@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d80ee7e-5e78-4f6c-b521-04a3c342a034" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/student_resource 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/sample_test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/sample_test_out.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/sample_test_out_fail.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tanmay.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/data/advita.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/data/colab_tessaract.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/data/format.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/data/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/data/suraj.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/data/tanmay.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/data/tessaract.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/scripts/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/scripts/output_coco.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/scripts/prepare_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/main_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/output/main_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_code.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2zT1t2qLqNg5iA3PTjnEwPYBTkd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d80ee7e-5e78-4f6c-b521-04a3c342a034" name="Changes" comment="" />
+      <created>1751740459706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751740459706</updated>
+    </task>
+    <servers />
+  </component>
+</project>
